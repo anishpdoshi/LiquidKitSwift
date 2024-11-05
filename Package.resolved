@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HTMLEntities",
+        "repositoryURL": "https://github.com/IBM-Swift/swift-html-entities.git",
+        "state": {
+          "branch": "master",
+          "revision": "d8ca73197f59ce260c71bd6d7f6eb8bbdccf508b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
